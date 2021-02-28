@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Clubhouse Recorder',
-  domain: 'clubhouserecorder.com',
+  domain: 'www.clubhouserecorder.com',
   author: 'n0c0de',
 
   // open graph metadata (optional)
